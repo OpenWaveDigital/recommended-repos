@@ -8,4 +8,6 @@ https://github.com/clvv/fasd
 <h2>peco</h2>
 "Simplistic interactive filtering tool"
 https://github.com/peco/peco
-
+<h2>yank</h2>
+"Yank terminal output to clipboard."
+https://github.com/peco/peco
