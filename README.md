@@ -16,6 +16,6 @@ View images from the commandline
 <h3>Install</h2>
 <code>sudo apt get eog</code>
 <h3>Syntax</h3>
-<code>eog yourimage.tiff</code>
+<code style="width: 10%">eog yourimage.tiff</code><br>
 <code>eog yourimage.tiff &</code>
 
