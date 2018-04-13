@@ -17,6 +17,7 @@ View images from the commandline
 <code>sudo apt install eog</code>
 <h3>Syntax</h3>
 <code style="width: 10%">eog yourimage.tiff</code><br>
-To run the command in the background:
+<br>
+To run the command in the background:<br>
 <code>eog yourimage.tiff &</code>
 
