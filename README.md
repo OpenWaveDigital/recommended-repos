@@ -14,8 +14,9 @@ https://github.com/peco/peco
 <h2>Eye of Gnome</h2>
 View images from the commandline
 <h3>Install</h2>
-<code>sudo apt get eog</code>
+<code>sudo apt install eog</code>
 <h3>Syntax</h3>
 <code style="width: 10%">eog yourimage.tiff</code><br>
+To run the command in the background:
 <code>eog yourimage.tiff &</code>
 
